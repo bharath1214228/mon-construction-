@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.sitescdn.net	TRUE	/	FALSE	1999999999	__cf_bm	k444KNkkSbEtioaI_dVmKxGXjATYsJSavyDjHbJL0h0-1667132541-0-AdMtKyzhd71bDRk+ncj9f1xuDr8iKYDetY76d9InwXJ1pQxU22oaEEe/ebM0Pp4a6mgJwAVB1T07HJxCXs/dXDw=
+assets.sitescdn.net	TRUE	/	FALSE	1999999999	SameSite	None
+.bing.com	TRUE	/	FALSE	1999999999	MUID	3E5CD68151CB60340EA7C4CC506D61E7
+bat.bing.com	TRUE	/	FALSE	1999999999	Priority	High
+bat.bing.com	TRUE	/	FALSE	1999999999	MR	0
+bat.bing.com	TRUE	/	FALSE	1999999999	SameSite	None
+.bigrentz.com	TRUE	/	FALSE	1999999999	bigrentz-phone	eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2Njk3MjQ1NjksImlhdCI6MTY2NzEzMjU2OSwiZm9ybWF0dGVkIjoiKDg4OCkgMzI1LTUxNzIiLCJ1bmZvcm1hdHRlZCI6IisxODg4MzI1NTE3MiJ9.NEgAzRrbxoIAvw4__uExfklYYDnksldMwqqr7fCQ044
+www.bigrentz.com	TRUE	/	FALSE	1999999999	bigrentz-campaign	deleted
+.bigrentz.com	TRUE	/	FALSE	1999999999	bigrentz-campaign	eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2Njk3MjQ1NjksImlhdCI6MTY2NzEzMjU2OSwiY2FtcGFpZ25OYW1lIjoiRGlyZWN0IChubyByZWZlcnJlcikiLCJiaWdSZW50eiI6eyJ0Zm4iOiIrMTg4ODMyNTUxNzIifX0.7RuZSustj9qfseHFsFbf_vwXgWYvrWuifWPW05dNNoU
+
